@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Foodicinepro</string>
+
+    <string name="title_item_detail">Ashraf</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+
+    <string name="treatment_1">treatment1</string>
+    <string name="treatment_1_details">treatment1 details </string>
+    <string name="treatment_2">treatment2</string>
+    <string name="treatment_2_details">treatment2  details</string>
+    <string name="treatment_3">treatment3</string>
+    <string name="treatment_3_details">treatment3  details</string>
+</resources>
